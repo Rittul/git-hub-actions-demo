@@ -1,1 +1,1 @@
-console.log("Hello GitHub Actions");
+console.log("Hello from Docker and GitHub Actions!");
